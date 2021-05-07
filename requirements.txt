@@ -57,7 +57,6 @@ pyodbc==4.0.26
 pyOpenSSL==19.0.0
 pyparsing==2.4.0
 pyperclip==1.8.2
-pypiwin32==223
 PyQt5-sip==12.8.1
 pyreadline==2.1
 PyRect==0.1.4
