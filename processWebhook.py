@@ -13,6 +13,7 @@ import csv
 from matplotlib import pyplot as plt
 import uuid
 import time
+import cv2
 
 
 app = flask.Flask(__name__)
