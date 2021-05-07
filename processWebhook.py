@@ -3,6 +3,7 @@ import os
 from flask import send_from_directory
 import numpy as np
 from sklearn.metrics import accuracy_score 
+import pickle
 
 
 app = flask.Flask(__name__)
