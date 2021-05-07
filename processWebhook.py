@@ -10,7 +10,6 @@ from sklearn.linear_model import LogisticRegression, RidgeClassifier
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 import pandas as pd
 import csv
-import os
 from matplotlib import pyplot as plt
 import cv2
 import mediapipe as mp # Import mediapipe
