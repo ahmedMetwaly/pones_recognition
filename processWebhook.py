@@ -13,7 +13,7 @@ import csv
 from matplotlib import pyplot as plt
 import uuid
 import time
-import flask_opencv_streamer
+import flask_opencv_streamer.streamer
 from flask_opencv_streamer.streamer import Streamer
 #import cv2
 
