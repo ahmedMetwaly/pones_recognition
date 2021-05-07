@@ -11,7 +11,6 @@ from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 import pandas as pd
 import csv
 from matplotlib import pyplot as plt
-import cv2
 import mediapipe as mp # Import mediapipe
 
 app = flask.Flask(__name__)
