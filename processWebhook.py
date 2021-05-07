@@ -5,6 +5,9 @@ import numpy as np
 from sklearn.metrics import accuracy_score 
 import pickle
 from sklearn.pipeline import make_pipeline 
+from sklearn.preprocessing import StandardScaler 
+from sklearn.linear_model import LogisticRegression, RidgeClassifier
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
 
 
