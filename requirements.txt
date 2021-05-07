@@ -78,5 +78,4 @@ wincertstore==0.2
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.4.1
-cv2==4.5.1
-pickle==4.0
+
