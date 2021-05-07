@@ -13,7 +13,7 @@ import csv
 from matplotlib import pyplot as plt
 import uuid
 import time
-import cv2
+import mediapipe as mp # Import mediapipe
 
 
 app = flask.Flask(__name__)
