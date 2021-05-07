@@ -4,6 +4,8 @@ from flask import send_from_directory
 import numpy as np
 from sklearn.metrics import accuracy_score 
 import pickle
+from sklearn.pipeline import make_pipeline 
+
 
 
 app = flask.Flask(__name__)
